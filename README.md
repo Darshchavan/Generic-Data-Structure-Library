@@ -46,7 +46,7 @@ This repository contains a comprehensive implementation of custom data structure
 
 ### 1. Clone the repository  
 ```bash  
-git clone https://github.com/<your-username>/custom-linked-list-library.git  
+git clone https://github.com/Darshchavan/custom-linked-list-library.git  
 ```  
 
 ### 2. Include the library in your project  
